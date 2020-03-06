@@ -1,0 +1,8 @@
+17:13:42.812 [main] INFO  resources.Baseclass - Navbar is displayed
+17:13:43.880 [main] INFO  resources.Baseclass - Driver is initialized
+17:13:50.281 [main] INFO  resources.Baseclass - Navigeted to homepage
+17:13:50.354 [main] INFO  resources.Baseclass - Succesfuly validated text messege
+19:09:50.652 [main] INFO  resources.Baseclass - Restricted User
+19:09:57.287 [main] INFO  resources.Baseclass - Non restricted user
+19:10:04.211 [main] INFO  resources.Baseclass - Navbar is displayed
+19:10:05.340 [main] INFO  resources.Baseclass - Driver is initialized
