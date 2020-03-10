@@ -26,6 +26,7 @@ public class ValidateNavBar extends Baseclass {
 		LandingPage l = new LandingPage(driver);
 		AssertJUnit.assertTrue(l.getNavBar().isDisplayed());
 		Log.info("Navbar is displayed by RavenCoder");
+		Log.info("Merge conflict");
 		Log.info("New log in develop branch by RavenCoder");
 	}
 	
